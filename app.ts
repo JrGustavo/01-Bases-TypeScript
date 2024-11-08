@@ -1,0 +1,4 @@
+
+
+const msg = 'Hola mundo'
+
